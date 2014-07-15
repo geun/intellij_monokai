@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><templates><template autoinsert="true" context="com.adobe.flexide.as.core.codetemplates.action_script" deleted="false" description="trace debug using ILogger" enabled="true" name="debuging">logger.debug("${enclosing_type}.${enclosing_method}(${enclosing_method_arguments})");</template></templates>
